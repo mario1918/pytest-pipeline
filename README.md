@@ -1,3 +1,4 @@
+[![Python application test with Github Actions](https://github.com/mario1918/pytest-pipeline/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/mario1918/pytest-pipeline/actions/workflows/testing-ci.yml)
 # pytest-pipeline
 
 A Python application demonstrating best practices for testing, linting, and code formatting with automated CI/CD using GitHub Actions.
